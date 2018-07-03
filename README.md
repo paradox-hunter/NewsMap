@@ -1,6 +1,6 @@
 # NewsMap
 
-This peoject is a web app that displays news of the selected region on a map. The user can search for regions using City, State and pincode.
+This project is a web app that displays news of the selected region on a map. The user can search for regions using City, State and pincode.
 
 
 
