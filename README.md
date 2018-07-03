@@ -1,6 +1,9 @@
 # NewsMap
 
 This peoject is a web app that displays news of the selected region on a map. The user can search for regions using City, State and pincode.
+
+[[https://github.com/paradox-hunter/NewsMap/blob/master/sampleshot.png]]
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
