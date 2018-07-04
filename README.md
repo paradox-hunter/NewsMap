@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This project is a refined version of the cs50 pset Finance, completed by the author when he pursued the course via edX
+* This project is a refined version of the cs50 pset Mashup, completed by the author when he pursued the course via edX
